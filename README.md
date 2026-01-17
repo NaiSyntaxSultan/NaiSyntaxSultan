@@ -43,8 +43,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaiSyntaxSultan&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaiSyntaxSultan&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaiSyntaxSultan&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiSyntaxSultan&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
+</p>
+
 
 
 ---
